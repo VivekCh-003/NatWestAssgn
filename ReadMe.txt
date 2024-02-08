@@ -13,4 +13,4 @@ sever.port = 8081
 
 The application will be accessible at - http://localhost:8081/swagger-ui/index.html
 
-I will upload a demo csv file for testing purposes in the zip file
+I will upload a demo csv file for testing purposes
